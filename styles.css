@@ -32,13 +32,13 @@ body {
     gap: 1rem;
    }
 
-  .emoji{
+  .emoji {
     display: flex;
     flex-direction: column;
     justify-content: baseline;
   }
 
-  h2{
+  h2 {
     align-self: center;
     order: +1;
   }
@@ -53,7 +53,7 @@ body {
     flex-grow: 1;
   }
 
-  a{
+  a {
     order: +3;
  }
 
