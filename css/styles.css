@@ -35,7 +35,7 @@ body {
   .emoji {
     display: flex;
     flex-direction: column;
-    justify-content: baseline;
+    
   }
 
   h2 {
